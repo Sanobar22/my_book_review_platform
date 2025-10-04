@@ -17,27 +17,6 @@ A full-stack book review application built with React, Convex, and TypeScript.
 │   └── package.json      # Backend dependencies
 └── package.json       # Root package.json with scripts
 ```
-##Project Description
-
-BookReview Platform is a modern full-stack web application that allows users to browse, search, rate, and review books. Built with React, Convex, and TypeScript, the platform offers a seamless and responsive user experience with real-time updates and robust backend support.
-
-The platform provides:
-
--A book discovery system with search and filtering.
-
--User-generated reviews and ratings with aggregated statistics.
-
--Authentication for personalized experiences.
-
--A dark/light mode toggle for accessibility and user preference.
-
--Responsive UI that works across desktops, tablets, and mobile devices.
-
--Interactive rating charts to visualize book popularity and distribution.
-
--This project is designed as a scalable template for building community-driven applications, demonstrating how Convex can be integrated with a modern React frontend for real-time, serverless functionality.
-
-
 ## Features
 
 - 📚 Browse and search books
