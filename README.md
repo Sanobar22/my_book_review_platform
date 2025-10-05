@@ -17,6 +17,12 @@ A full-stack book review application built with React, Convex, and TypeScript.
 │   └── package.json      # Backend dependencies
 └── package.json       # Root package.json with scripts
 ```
+## Deployment Links : 
+
+Frontend: https://my-book-review-platform.netlify.app (https://my-book-review-platform.netlify.app)
+
+Backend : https://lovely-guanaco-487.convex.cloud 
+
 ## Features
 
 - 📚 Browse and search books
